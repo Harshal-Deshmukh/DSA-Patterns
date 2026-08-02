@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0767-reorganize-string) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0930-binary-subarrays-with-sum) |
