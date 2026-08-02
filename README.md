@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0485-max-consecutive-ones](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
