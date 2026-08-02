@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0023-merge-k-sorted-lists) |
 | [0328-odd-even-linked-list](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0328-odd-even-linked-list) |
 ## Divide and Conquer
