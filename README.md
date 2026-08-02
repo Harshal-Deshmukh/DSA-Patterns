@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1191-k-concatenation-maximum-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2321-maximum-score-of-spliced-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2321-maximum-score-of-spliced-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0509-fibonacci-number) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1191-k-concatenation-maximum-sum) |
+| [2321-maximum-score-of-spliced-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2321-maximum-score-of-spliced-array) |
 ## Recursion
 |  |
 | ------- |
