@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0011-container-with-most-water) |
 | [0303-range-sum-query-immutable](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0303-range-sum-query-immutable) |
+| [0502-ipo](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0930-binary-subarrays-with-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0011-container-with-most-water) |
+| [0502-ipo](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0023-merge-k-sorted-lists) |
+| [0502-ipo](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
