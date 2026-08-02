@@ -85,9 +85,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
