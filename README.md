@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0767-reorganize-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
