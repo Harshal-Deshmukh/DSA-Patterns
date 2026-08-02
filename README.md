@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0692-top-k-frequent-words) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0692-top-k-frequent-words) |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
