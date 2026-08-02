@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0502-ipo) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
 ## Greedy
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
