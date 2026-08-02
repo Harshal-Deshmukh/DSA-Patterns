@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0643-maximum-average-subarray-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
