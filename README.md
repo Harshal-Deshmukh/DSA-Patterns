@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1046-last-stone-weight) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1191-k-concatenation-maximum-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0509-fibonacci-number) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1191-k-concatenation-maximum-sum) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2321-maximum-score-of-spliced-array) |
 ## Recursion
