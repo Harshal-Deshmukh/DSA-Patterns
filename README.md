@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0011-container-with-most-water) |
 | [0303-range-sum-query-immutable](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
+| [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0930-binary-subarrays-with-sum) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1191-k-concatenation-maximum-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1480-running-sum-of-1d-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
+| [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
@@ -78,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
