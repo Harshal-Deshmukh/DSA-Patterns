@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0692-top-k-frequent-words) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0767-reorganize-string) |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1952-three-divisors) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
