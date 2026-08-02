@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0092-reverse-linked-list-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0328-odd-even-linked-list) |
 ## Divide and Conquer
