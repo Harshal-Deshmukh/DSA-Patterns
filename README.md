@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
