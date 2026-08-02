@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0973-k-closest-points-to-origin) |
+| [0986-interval-list-intersections](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1191-k-concatenation-maximum-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
+| [0986-interval-list-intersections](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0986-interval-list-intersections) |
 ## Greedy
 |  |
 | ------- |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
