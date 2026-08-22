@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0304-range-sum-query-2d-immutable) |
 ## Dynamic Programming
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
