@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1544-make-the-string-great](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1544-make-the-string-great) |
 ## Sliding Window
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1544-make-the-string-great](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
