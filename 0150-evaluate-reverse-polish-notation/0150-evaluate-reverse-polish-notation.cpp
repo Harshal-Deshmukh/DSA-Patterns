@@ -8,9 +8,9 @@ public:
                 int b = st.top(); st.pop();
 
                 if(tokens[i]=="+") st.push(b+a);
-                if(tokens[i]=="-") st.push(b-a);
-                if(tokens[i]=="/") st.push(b/a);
-                if(tokens[i]=="*") st.push(b*a);
+                else if(tokens[i]=="-") st.push(b-a);
+                else if(tokens[i]=="/") st.push(b/a);
+                else st.push(b*a);
             }
             else{
                 st.push(stoi(tokens[i]));
