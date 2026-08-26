@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0739-daily-temperatures) |
 ## Sweep Line
