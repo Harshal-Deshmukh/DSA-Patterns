@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0509-fibonacci-number) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0739-daily-temperatures) |
