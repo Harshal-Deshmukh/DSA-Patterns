@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1929-concatenation-of-array) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2321-maximum-score-of-spliced-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1248-count-number-of-nice-subarrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
