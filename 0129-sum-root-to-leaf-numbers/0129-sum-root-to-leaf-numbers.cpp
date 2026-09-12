@@ -1,20 +1,20 @@
 class Solution {
 public:
-    string sum="";
     int ans=0;
-    void fun(TreeNode* root, string sum){
+    void fun(TreeNode* root, int sum){
         if (root==NULL) return;
-        sum+=to_string(root->val);
+        
+        sum=sum*10+root->val;
 
         if(root->left==NULL && root->right==NULL){
-            ans+= stoi(sum);
-            sum="";
+            ans+= sum;
+            return;
         }
         fun(root->left,sum);
         fun(root->right,sum);
     }
     int sumNumbers(TreeNode* root) {
-        fun(root,"");
+        fun(root,0);
         return ans;
     }
 };
