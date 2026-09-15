@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Lifting
 |  |
@@ -498,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0700-search-in-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
