@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0152-maximum-product-subarray) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0202-happy-number) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0240-search-a-2d-matrix-ii) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0113-path-sum-ii) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0113-path-sum-ii) |
