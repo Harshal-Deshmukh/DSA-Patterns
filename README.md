@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1929-concatenation-of-array) |
 ## Matrix
