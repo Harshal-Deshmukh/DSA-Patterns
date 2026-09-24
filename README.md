@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1929-concatenation-of-array) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2321-maximum-score-of-spliced-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1952-three-divisors](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1952-three-divisors) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Design
 |  |
 | ------- |
