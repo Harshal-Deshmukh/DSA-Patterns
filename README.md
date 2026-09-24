@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0692-top-k-frequent-words) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0973-k-closest-points-to-origin) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1929-concatenation-of-array) |
