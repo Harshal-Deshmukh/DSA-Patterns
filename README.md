@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1046-last-stone-weight) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Bit Manipulation
 |  |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
