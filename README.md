@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0016-3sum-closest) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0076-minimum-window-substring) |
