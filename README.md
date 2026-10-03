@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1544-make-the-string-great) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0986-interval-list-intersections](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0986-interval-list-intersections) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
