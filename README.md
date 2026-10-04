@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1108-defanging-an-ip-address) |
