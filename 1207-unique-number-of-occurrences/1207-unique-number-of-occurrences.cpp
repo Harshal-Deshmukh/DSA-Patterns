@@ -7,13 +7,12 @@ public:
             mp[arr[i]]++;
         }
         for(auto i :mp){
-            int val=i.second;
-            rev[val]++;
+            int freq=i.second;
+            rev[freq]++;
+            if(rev[freq]>1) return false;
+            
         }
-        for(auto i:rev){
-            int val=i.second;
-            if(val>1) return false;
-        }
+        
         return true;
     }
 };
