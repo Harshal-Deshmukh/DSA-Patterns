@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0904-fruit-into-baskets) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0832-flipping-an-image](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0977-squares-of-a-sorted-array) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0415-add-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1929-concatenation-of-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2562-find-the-array-concatenation-value) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0832-flipping-an-image](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Bit Manipulation
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0371-sum-of-two-integers) |
+| [0832-flipping-an-image](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0832-flipping-an-image) |
 ## Enumeration
 |  |
 | ------- |
