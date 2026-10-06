@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1189-maximum-number-of-balloons) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
