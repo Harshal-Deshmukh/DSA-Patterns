@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0424-longest-repeating-character-replacement) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0767-reorganize-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0344-reverse-string) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0832-flipping-an-image) |
