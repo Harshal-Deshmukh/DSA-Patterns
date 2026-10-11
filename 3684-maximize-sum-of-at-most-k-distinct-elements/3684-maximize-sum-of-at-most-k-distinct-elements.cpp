@@ -2,16 +2,15 @@ class Solution {
 public:
     vector<int> maxKDistinct(vector<int>& nums, int k) {
         vector<int> res;
-        unordered_map<int,int> mp;
+        unordered_set<int> mp;
         for(int i=0;i<nums.size();i++){
-            mp[nums[i]]++;
+           mp.insert(nums[i]);
         }
         nums.clear();
         for(auto i:mp){
-            nums.push_back(i.first);
+            nums.push_back(i);
         }
-        sort(nums.begin(),nums.end());
-        reverse(nums.begin(),nums.end());
+        sort(nums.begin(),nums.end(),greater<int>());
         for(int i=0;i<nums.size();i++){
             res.push_back(nums[i]);
             k--;
