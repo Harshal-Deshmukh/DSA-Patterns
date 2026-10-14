@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1207-unique-number-of-occurrences](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1248-count-number-of-nice-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1816-truncate-sentence) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
