@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1544-make-the-string-great](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1544-make-the-string-great) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1816-truncate-sentence) |
