@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2321-maximum-score-of-spliced-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2562-find-the-array-concatenation-value](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2562-find-the-array-concatenation-value) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
