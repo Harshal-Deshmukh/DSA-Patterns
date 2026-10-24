@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1544-make-the-string-great](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1544-make-the-string-great) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1816-truncate-sentence) |
+| [1844-replace-all-digits-with-characters](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1844-replace-all-digits-with-characters) |
 | [2409-count-days-spent-together](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3541-find-most-frequent-vowel-and-consonant) |
