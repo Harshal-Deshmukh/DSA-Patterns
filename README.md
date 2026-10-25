@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2321-maximum-score-of-spliced-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2562-find-the-array-concatenation-value](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2562-find-the-array-concatenation-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3668-restore-finishing-order) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Binary Search
 |  |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1046-last-stone-weight) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
 |  |
 | ------- |
@@ -500,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1929-concatenation-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2562-find-the-array-concatenation-value](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2562-find-the-array-concatenation-value) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
