@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1191-k-concatenation-maximum-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1191-k-concatenation-maximum-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1248-count-number-of-nice-subarrays) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1512-number-of-good-pairs) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1248-count-number-of-nice-subarrays) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0791-custom-sort-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0791-custom-sort-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0977-squares-of-a-sorted-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2089-find-target-indices-after-sorting-array) |
