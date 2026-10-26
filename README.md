@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2469-convert-the-temperature](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2469-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Design
 |  |
 | ------- |
