@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0371-sum-of-two-integers) |
