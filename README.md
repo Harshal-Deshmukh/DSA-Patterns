@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1191-k-concatenation-maximum-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1191-k-concatenation-maximum-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1248-count-number-of-nice-subarrays) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1480-running-sum-of-1d-array) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
