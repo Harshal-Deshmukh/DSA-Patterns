@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2965-find-missing-and-repeated-values](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2965-find-missing-and-repeated-values) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3668-restore-finishing-order) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2409-count-days-spent-together](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2469-convert-the-temperature) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2965-find-missing-and-repeated-values) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
