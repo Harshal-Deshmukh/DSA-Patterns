@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3668-restore-finishing-order](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3838-weighted-word-mapping](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3838-weighted-word-mapping) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3917-count-indices-with-opposite-parity) |
 | [4020-elevator-requests-i](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/4020-elevator-requests-i) |
 ## Prefix Sum
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3498-reverse-degree-of-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2562-find-the-array-concatenation-value](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2562-find-the-array-concatenation-value) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3838-weighted-word-mapping) |
 | [4020-elevator-requests-i](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/4020-elevator-requests-i) |
 ## Matrix
 |  |
