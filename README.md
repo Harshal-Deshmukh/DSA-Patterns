@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2562-find-the-array-concatenation-value](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2562-find-the-array-concatenation-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
