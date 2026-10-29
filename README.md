@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3838-weighted-word-mapping) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3917-count-indices-with-opposite-parity) |
+| [3978-unique-middle-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3978-unique-middle-element) |
 | [4020-elevator-requests-i](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/4020-elevator-requests-i) |
 ## Prefix Sum
 |  |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3978-unique-middle-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3978-unique-middle-element) |
 ## Linked List
 |  |
 | ------- |
