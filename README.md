@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2321-maximum-score-of-spliced-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2409-count-days-spent-together](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -728,4 +730,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/0069-sqrtx) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
