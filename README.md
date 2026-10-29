@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1732-find-the-highest-altitude](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1816-truncate-sentence) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
