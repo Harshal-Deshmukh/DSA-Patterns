@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2562-find-the-array-concatenation-value](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2562-find-the-array-concatenation-value) |
+| [2574-left-and-right-sum-differences](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2574-left-and-right-sum-differences](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
