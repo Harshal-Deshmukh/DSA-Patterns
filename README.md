@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2562-find-the-array-concatenation-value](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2562-find-the-array-concatenation-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2678-number-of-senior-citizens](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2409-count-days-spent-together](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2409-count-days-spent-together) |
+| [2678-number-of-senior-citizens](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2678-number-of-senior-citizens) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3794-reverse-string-prefix) |
