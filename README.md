@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2409-count-days-spent-together](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2469-convert-the-temperature) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Queue
 |  |
 | ------- |
@@ -768,4 +771,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/2185-counting-words-with-a-given-prefix) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
