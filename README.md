@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3668-restore-finishing-order](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3838-weighted-word-mapping) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3917-count-indices-with-opposite-parity) |
 | [3978-unique-middle-element](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3978-unique-middle-element) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Design
 |  |
 | ------- |
