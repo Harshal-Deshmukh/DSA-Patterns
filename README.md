@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3908-valid-digit-number](https://github.com/Harshal-Deshmukh/DSA-Patterns/tree/master/3908-valid-digit-number) |
 ## Design
 |  |
 | ------- |
